@@ -11,3 +11,5 @@
 - 📫 How to reach me: [Whatsapp - 918483900678](https://wa.me/918483900678?text=Hey..%20I%20found%20you%20from%20Github...) or manjitpardeshi91991@gmail.com
 - 😄 Actively looking for collaboration...
 - 🌐 [**My website**](https://findmanjit.vercel.app)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjit2003&layout=compact)](https://github.com/Manjit2003/github-readme-stats)
