@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Manjit Pardeshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 ![banner](https://raw.githubusercontent.com/Manjit2003/Manjit2003/8f170b14239a5ff5849330472d137d61439f0644/corporate%20%20linkedln%20benner%20(1).png)
 
