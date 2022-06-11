@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manjit Pardeshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![banner](https://raw.githubusercontent.com/Manjit2003/Manjit2003/8f170b14239a5ff5849330472d137d61439f0644/corporate%20%20linkedln%20benner%20(1).png)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjit2003&label=Profile%20views&color=0e75b6&style=flat" alt="manjit2003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/0xmanjit" target="blank"><img src="https://img.shields.io/twitter/follow/0xmanjit?logo=twitter&style=for-the-badge" alt="0xmanjit" /></a> </p>
